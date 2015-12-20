@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cave Game.CSharp.Plugins", "Cave Game.CSharp.Plugins.csproj", "{3126E681-8E55-55D8-1CA4-326A917DED47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cave Game.CSharp", "Cave Game.CSharp.csproj", "{D68FEC5C-16ED-3171-4826-35913C424440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cave Game.CSharp.Editor", "Cave Game.CSharp.Editor.csproj", "{B6F21A8A-2734-9980-1D33-503493A6159F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3126E681-8E55-55D8-1CA4-326A917DED47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3126E681-8E55-55D8-1CA4-326A917DED47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3126E681-8E55-55D8-1CA4-326A917DED47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3126E681-8E55-55D8-1CA4-326A917DED47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68FEC5C-16ED-3171-4826-35913C424440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68FEC5C-16ED-3171-4826-35913C424440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68FEC5C-16ED-3171-4826-35913C424440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68FEC5C-16ED-3171-4826-35913C424440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F21A8A-2734-9980-1D33-503493A6159F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F21A8A-2734-9980-1D33-503493A6159F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F21A8A-2734-9980-1D33-503493A6159F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F21A8A-2734-9980-1D33-503493A6159F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
